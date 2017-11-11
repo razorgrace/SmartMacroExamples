@@ -1,0 +1,18 @@
+## Interface: 70300
+## Title: SmartMacroExamples
+## Version: 0.0.0
+## DefaultState: enabled
+## Deps: SmartMacro
+
+AP.lua
+Dispel.lua
+EntryPoint.lua
+Flask.lua
+Immunity.lua
+Interrupt_Slow.lua
+Racial.lua
+README.md
+Resurrect.lua
+SmartMacroExamples.lua
+Sprint.lua
+Travel.lua
